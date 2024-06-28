@@ -1,3 +1,8 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 body{
     margin:  0px;
     padding: 0px;
@@ -71,7 +76,7 @@ ul{
     font-family: "Roboto", sans-serif;
     color: #1B1F21;
     font-size: 16px;
-    line-height: 1px;
+    line-height: 20px;
 }
 .Firstcaption p{
     font-family: "Roboto", sans-serif;
@@ -83,7 +88,7 @@ ul{
 .caption{
     font-family: "Roboto", sans-serif;
     font-size: 14px;
-    line-height: 5px;
+    line-height: 20px;
     font-weight: 400;
     color: #444749;
 }
@@ -135,7 +140,7 @@ button:focus{
     font-size: 45px;
     text-align: center;
     color: #1B1F21;
-    line-height: 1px;
+    line-height: 60px;
 }
 .text p{
     font-family: "Open Sans", sans-serif;
